@@ -1,0 +1,74 @@
+{
+	"ImportPath": "github.com/freeformz/pajamas",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/fatih/color",
+			"Comment": "v0.1-10-g8640971",
+			"Rev": "8640971291e54b520f781270275b7ed8762ac909"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.2-121-g69e3ed7",
+			"Rev": "69e3ed7607d7c139386480824801584c947c67cf"
+		},
+		{
+			"ImportPath": "github.com/gocql/gocql",
+			"Comment": "1st_gen_framing-357-gcddf562",
+			"Rev": "cddf562e0697543762f743d7e73458346f4fcae4"
+		},
+		{
+			"ImportPath": "github.com/golang/snappy",
+			"Rev": "723cc1e459b8eea2dea4583200fd60757d40097a"
+		},
+		{
+			"ImportPath": "github.com/hailocab/go-hostpool",
+			"Rev": "be8d763da234fdc1ffbf8c3149c308db31fbf894"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-61-g83c4f41",
+			"Rev": "83c4f410d0aed80a0f44bac6a576a7f2435791f3"
+		},
+		{
+			"ImportPath": "github.com/mattes/migrate/driver",
+			"Comment": "v1.2.0-46-ge351ab2",
+			"Rev": "e351ab27b9642dec8e72c966a35bac3dd1e0004d"
+		},
+		{
+			"ImportPath": "github.com/mattes/migrate/file",
+			"Comment": "v1.2.0-46-ge351ab2",
+			"Rev": "e351ab27b9642dec8e72c966a35bac3dd1e0004d"
+		},
+		{
+			"ImportPath": "github.com/mattes/migrate/migrate",
+			"Comment": "v1.2.0-46-ge351ab2",
+			"Rev": "e351ab27b9642dec8e72c966a35bac3dd1e0004d"
+		},
+		{
+			"ImportPath": "github.com/mattes/migrate/pipe",
+			"Comment": "v1.2.0-46-ge351ab2",
+			"Rev": "e351ab27b9642dec8e72c966a35bac3dd1e0004d"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "7fcbc72f853b92b5720db4a6b8482be612daef24"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-sqlite3",
+			"Comment": "v1.1.0-25-g2513631",
+			"Rev": "2513631704612107a1c8b1803fb8e6b3dda2230e"
+		},
+		{
+			"ImportPath": "github.com/shiena/ansicolor",
+			"Rev": "d445752f6f66f9cd987722f109149f6799cdf1de"
+		},
+		{
+			"ImportPath": "gopkg.in/inf.v0",
+			"Rev": "3887ee99ecf07df5b447e9b00d9c0b2adaa9f3e4"
+		}
+	]
+}
