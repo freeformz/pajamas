@@ -18,6 +18,10 @@ Using `github.com/mattes/migrate` as an example this repo was constructed by doi
 1. `git commit -am "includes migration"`
 1. `git push heroku master`
 
+Pushing this repo to a heroku application will produce 2 binaries in `/bin`: `pajamas` and `mirgate`.
+
+Using `heroku run migrate <args>` then allows you to process any otherwise recorded migrations.
+
 FWIW: I consider this a workaround looking for a better, longer term solution.
 
 [migrate]: https://github.com/mattes/migrate
